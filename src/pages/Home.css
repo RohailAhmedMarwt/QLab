@@ -1,0 +1,57 @@
+.right-child img{
+    height: 105px;
+    width: 130px;
+}
+.btn-home{
+    background-color: #2a56ff;
+    color: #fff;
+    border-radius: 20px;
+   padding-left: 18px;
+   padding-right: 18px;
+   padding-top: 7px;
+   padding-bottom: 7px;
+    margin: 10px;
+    border: none;
+}
+.btn-home:hover{
+    background:linear-gradient(90deg, #160042, #753a88);
+    color: white ;
+}
+.left-child {
+    background: linear-gradient(90deg, #160042, #753a88);
+    border-radius: 10px;
+    padding: 20px;
+}
+.image img{
+    height: 85px;
+}
+
+.style img{
+    height:15px;
+    width: 120px;
+}
+.pics img{
+    height:120px;
+    width: 120px;
+}
+.pics h4{
+       font-weight: 700;
+}
+.image p{
+    font-weight: 700;
+    font-size: 22px;
+}
+.buttn button{
+    margin: 30px 9px;
+    width: 130px;
+}
+.iges img{
+    height: 170px;
+    width: 180px;
+}
+.picsss img{
+    height: 45px;
+}
+.picc img{
+    height: 400px;
+}
