@@ -2,7 +2,7 @@ import "./Footer.css"
 const Footer = () => {
     return (
         <>
-            <div className="container">
+            <div className=" container text-white">
                 <div className="row">
                     <div className="col-lg-3 col-md-3 col-sm-6 col-12 text-center">
                         <h2 className="Footer-hading">Development</h2>
@@ -10,6 +10,8 @@ const Footer = () => {
                         <p>Node Js</p>
                         <p>React Js</p>
                         <p>Express Js</p>
+                        <p>Apollo Client</p>
+                        <p>Mongodb</p>
                     </div>
                     <div className="col-lg-3 col-md-3 col-sm-6 col-12 text-center">
                         <h2 className="Footer-hading">Design</h2>

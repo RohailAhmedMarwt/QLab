@@ -1,21 +1,34 @@
 .right-child img{
-    height: 105px;
+    height: 120px;
     width: 130px;
 }
+.developerr img{
+    height: 80px;
+    
+}
+.developerr h4{
+    font-weight: 600;
+}
+
 .btn-home{
     background-color: #2a56ff;
     color: #fff;
     border-radius: 20px;
-   padding-left: 18px;
-   padding-right: 18px;
-   padding-top: 7px;
-   padding-bottom: 7px;
+   padding: 7px 13px;
     margin: 10px;
+    font-size: 16px;
     border: none;
+}
+.btnb{
+    padding: 7px 35px;
 }
 .btn-home:hover{
     background:linear-gradient(90deg, #160042, #753a88);
     color: white ;
+}
+.tech img{
+    height: 220px;
+    width: 210px;
 }
 .left-child {
     background: linear-gradient(90deg, #160042, #753a88);
@@ -35,16 +48,9 @@
     width: 120px;
 }
 .pics h4{
-       font-weight: 700;
+       font-weight: 600;
 }
-.image p{
-    font-weight: 700;
-    font-size: 22px;
-}
-.buttn button{
-    margin: 30px 9px;
-    width: 130px;
-}
+
 .iges img{
     height: 170px;
     width: 180px;
@@ -54,4 +60,7 @@
 }
 .picc img{
     height: 400px;
+}
+.lastimg img{
+    height: 260px;
 }
